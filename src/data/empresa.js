@@ -9,6 +9,10 @@ export const empresa = {
     "Ser referência nacional em desenvolvimento de software sob medida até 2030, reconhecida pela excelência técnica, pela inovação constante e pelo impacto positivo gerado nos negócios que atendemos.",
   valores: [
     {
+      titulo: "Força",
+      descricao: "entregamos sistemas resistentes, que aguentam o uso real."
+    },
+    {
       titulo: "Excelência técnica",
       descricao: "Compromisso com código limpo, boas práticas de engenharia e entregas de alta qualidade."
     },
@@ -55,6 +59,13 @@ export const empresa = {
       foto: "/images/amy.jpg",
       alt: "Foto de Amy Farrah Fowler",
       descricao: "Responsável por estruturar e proteger os bancos de dados dos clientes."
+    },
+    {
+      nome: "Lourival Campelo",
+      cargo: "Analista de Segurança da Informação",
+      foto: "",
+      alt: "Foto de Lourival Campelo",
+      descricao: "Integrante mais recente da equipe e chegou para garantir a segurança do sistema"
     }
   ]
 };
