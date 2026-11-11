@@ -1,4 +1,4 @@
-# ted-system-site2
+#ted-system-site2
 
 > Tecnologia que evolui com o seu negócio.
 
